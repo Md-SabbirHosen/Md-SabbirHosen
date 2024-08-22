@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawwadalsabbir&label=Profile%20views&color=0e75b6&style=flat" alt="jawwadalsabbir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jawwadalsabbir" target="blank"><img src="https://img.shields.io/twitter/follow/jawwadalsabbir?logo=twitter&style=for-the-badge" alt="jawwadalsabbir" /></a> </p>
+//<p align="left"> <a href="https://twitter.com/jawwadalsabbir" target="blank"><img src="https://img.shields.io/twitter/follow/jawwadalsabbir?logo=twitter&style=for-the-badge" alt="jawwadalsabbir" /></a> </p>
 
 - 🌱 I’m currently learning **Redux,Node.js,Express.js,MongoDB,Figma**
 
