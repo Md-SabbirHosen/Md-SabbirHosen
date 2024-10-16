@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawwadalsabbir&label=Profile%20views&color=0e75b6&style=flat" alt="jawwadalsabbir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sabbir___hosen" target="blank"><img src="https://img.shields.io/twitter/follow/sabbir___hosen?logo=twitter&style=for-the-badge" alt="sabbir___hosen" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript,React Query,Dynamic Programming**
 
