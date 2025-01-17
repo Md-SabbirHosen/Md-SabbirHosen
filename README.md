@@ -168,6 +168,18 @@
       </a>
         <br><b>TypeScript</b>
     </td>
+    <td align="center" width="100">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+      </a>
+        <br><b>Docker</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/7850794/164965523-3eced4c4-6020-467e-acde-f11b7900ad62.png" alt="Framer Motion" width="40" height="40"/>
+      </a>
+        <br><b>Framer Motion</b>
+    </td>
   </tr>
 </table>
 
